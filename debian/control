@@ -1,0 +1,12 @@
+Source: fonts-nomad-desktop
+Section: unknown
+Priority: optional
+Maintainer: Alexis <azubieta90@gmail.com>
+Build-Depends: debhelper (>=9)
+Standards-Version: 3.9.6
+Vcs-Git: https://github.com/nomad-desktop/fonts-nomad-desktop.git
+
+Package: fonts-nomad-desktop
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Fonts package for nomad desktop. 
