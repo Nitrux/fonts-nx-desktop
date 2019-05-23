@@ -1,4 +1,4 @@
-# Fonts Nomad Desktop [![Build Status](https://travis-ci.org/nomad-desktop/fonts-nomad-desktop.svg?branch=master)](https://travis-ci.org/nomad-desktop/fonts-nomad-desktop)
+# Fonts Nomad Desktop [![Build Status](https://travis-ci.org/Nitrux/fonts-nomad-desktop.svg?branch=master)](https://travis-ci.org/Nitrux/fonts-nomad-desktop)
 
 Fonts used in Nomad Desktop.
 
