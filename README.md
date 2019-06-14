@@ -1,4 +1,4 @@
-# Fonts NX Desktop [![Build Status](https://travis-ci.org/Nitrux/fonts-nomad-desktop.svg?branch=master)](https://travis-ci.org/Nitrux/fonts-nomad-desktop)
+# Fonts NX Desktop [![Build Status](https://travis-ci.org/Nitrux/fonts-nx-desktop.svg?branch=master)](https://travis-ci.org/Nitrux/fonts-nx-desktop)
 
 Fonts used in NX Desktop.
 
