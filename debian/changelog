@@ -1,3 +1,9 @@
+fonts-nx-desktop (1.0.2) nxos; urgency=medium
+
+  * Change package name.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Wed, 26 Jun 2019 04:10:00 -0500
+
 fonts-nx-desktop (1.0.1) bionic; urgency=medium
 
   * Change package name.
