@@ -15,10 +15,9 @@ script:
 branches:
   only:
   - master
-  - development
 deploy:
 - provider: script
-  script: "./source/nitrux-repository-util.sh upload nitrux-desktop *.deb"
+  script: "./source/nitrux-repository-util.sh upload nitrux *.deb"
   skip_cleanup: true
   on:
     branch: master

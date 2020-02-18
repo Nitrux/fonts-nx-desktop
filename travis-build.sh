@@ -4,7 +4,7 @@ apt-get --yes update
 apt-get --yes install wget
 
 ### Add KDENeon Repository
-echo 'deb http://archive.neon.kde.org/dev/stable/ bionic main' | tee /etc/apt/sources.list.d/neon-stable.list
+echo 'deb http://archive.neon.kde.org/user bionic main' | tee /etc/apt/sources.list.d/neon.list
 wget -qO - 'http://archive.neon.kde.org/public.key' | apt-key add -
 
 ### Install Dependencies
