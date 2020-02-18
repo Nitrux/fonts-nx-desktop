@@ -1,11 +1,12 @@
 Source: fonts-nx-desktop
-Section: unknown
+Section: fonts
 Priority: optional
 Maintainer: Uri Herrera <uri_herrera@nxos.org>
 Build-Depends: debhelper (>=9)
 Standards-Version: 3.9.6
 
 Package: fonts-nx-desktop
-Architecture: any
+Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: Fonts package for NX Desktop. 
+Description: Fonts package for NX Desktop.
+  Fonts that are used in NX Desktop.

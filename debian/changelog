@@ -1,4 +1,4 @@
-fonts-nx-desktop (1.0.2) nxos; urgency=medium
+fonts-nx-desktop (1.0.2) nitrux; urgency=medium
 
   * Change package name.
 
@@ -12,6 +12,6 @@ fonts-nx-desktop (1.0.1) bionic; urgency=medium
 
 fonts-nomad-desktop (1.0-2) unstable; urgency=medium
 
-  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+  * Initial release.
 
  -- Alexis <azubieta90@gmail.com>  Wed, 27 Sep 2017 12:56:41 -0500
