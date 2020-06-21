@@ -1,5 +1,11 @@
 fonts-nx-desktop (1.0.2) nitrux; urgency=medium
 
+  * Add Fira Sans.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Sun, 21 Jun 2020 14:36:00 -0500
+
+fonts-nx-desktop (1.0.2) nitrux; urgency=medium
+
   * Change package name.
 
  -- Uri Herrera <uri_herrera@nxos.org>  Wed, 26 Jun 2019 04:10:00 -0500
