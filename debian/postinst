@@ -1,0 +1,22 @@
+#! /bin/bash
+
+
+#	add powerline fonts.
+
+git clone https://github.com/powerline/fonts /tmp/powerline-fonts
+cp -r /tmp/powerline-fonts/Terminus/PSF/*.psf.gz /usr/share/consolefonts
+rm -r /tmp/powerline-fonts
+
+#	enable powerline fonts in Linux's console.
+
+> /etc/default/console-setup printf "%s\n" \
+	"# CONFIGURATION FILE FOR SETUPCON" \
+	" " \
+	"# Consult the console-setup(5) manual page." \
+	" " \
+	'ACTIVE_CONSOLES="/dev/tty[1-6]"' \
+	'CHARMAP="UTF-8"' \
+	" " \
+	"VIDEOMODE=" \
+	'FONT="ter-powerline-v16n.psf.gz"' \
+

@@ -1,3 +1,9 @@
+fonts-nx-desktop (1.0.4) nitrux; urgency=medium
+
+  * Add Powerline fonts for Linux console.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Tue, 21 Jul 2020 17:20:00 -0500
+
 fonts-nx-desktop (1.0.3) nitrux; urgency=medium
 
   * Add Fira Sans.
