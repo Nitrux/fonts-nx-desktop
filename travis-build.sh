@@ -20,14 +20,6 @@ DEBIAN_FRONTEND=noninteractive apt -qq -yy install devscripts debhelper gettext 
 
 mk-build-deps -i -t "apt-get --yes" -r
 
-### Clone repo.
-
-git clone https://github.com/KDE/latte-dock.git
-
-mv latte-dock/* .
-
-rm -rf latte-dock LICENSES README.md
-
 ### Build Deb
 
 mkdir source
