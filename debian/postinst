@@ -1,6 +1,5 @@
 #! /bin/bash
 
-
 #	add powerline fonts.
 
 git clone https://github.com/powerline/fonts /tmp/powerline-fonts
