@@ -1,4 +1,4 @@
-fonts-nx-desktop (1.0.4) nitrux; urgency=medium
+fonts-nx-desktop (1.0.5) nitrux; urgency=medium
 
   * Add Meslo Nerd Font patched for Powerlevel10k.
 
