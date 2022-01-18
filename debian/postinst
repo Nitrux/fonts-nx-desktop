@@ -1,4 +1,4 @@
-#! /bin/bash
+#! /bin/sh
 
 #	add powerline fonts.
 
@@ -17,5 +17,10 @@ rm -r /tmp/powerline-fonts
 	'CHARMAP="UTF-8"' \
 	" " \
 	"VIDEOMODE=" \
-	'FONT="ter-powerline-v16n.psf.gz"' \
-
+	" " \
+	'FONT="Uni2-Terminus16.psf.gz"' \
+	" " \
+	'CODESET="Uni2"' \
+	'FONTFACE="Terminus"' \
+	'FONTSIZE="16"' \
+	" "
