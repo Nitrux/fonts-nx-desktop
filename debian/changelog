@@ -1,3 +1,9 @@
+fonts-nx-desktop (1.0.7) nitrux; urgency=medium
+
+  * Add IMB Plex sans.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Wed, 13 Jan 2023 16:33:00 -0500
+
 fonts-nx-desktop (1.0.6) nitrux; urgency=medium
 
   * Update /etc/default/console-setup.
