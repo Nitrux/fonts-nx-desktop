@@ -1,6 +1,13 @@
+fonts-nx-desktop (1.0.8) nitrux; urgency=medium
+
+  * Add CamingoCode and Switzer.
+  * Remove unused fonts.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Thu, 14 Dec 2023 00:08:00 -0500
+
 fonts-nx-desktop (1.0.7) nitrux; urgency=medium
 
-  * Add IMB Plex sans.
+  * Add IBM Plex sans.
 
  -- Uri Herrera <uri_herrera@nxos.org>  Wed, 13 Jan 2023 16:33:00 -0500
 
